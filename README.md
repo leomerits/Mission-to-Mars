@@ -6,6 +6,7 @@ With this project, we were able to portray how to scrape information from diefer
 - Software: Jupyter Notebook, Python, MongoDB, VS Code, Flask.
 
 # Results:
+We were able to create a functional web app for Robin that was scraping-friendly, was able to adjust the web app to include all four of the hemisphere images using BeautifulSoup and splinter to be able to scrape full-resolution images of Mars's hemispheres and the titles of those images, and was also able to store the scraped data on a Mongo database and finally use web application to display data as well as altering the design of the web app to accomodate the images and mobile capable.  
 
 # Images:
 - Missiion to Mars Web page
